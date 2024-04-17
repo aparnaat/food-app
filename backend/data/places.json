@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c1",
+    "title": "Restaurant 1",
+    "image": {
+      "src": "images/rest1.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": 44.5588,
+    "lon": -80.344
+  },
+  {
+    "id": "c2",
+    "title": "Restaurant 2",
+    "image": {
+      "src": "images/rest2.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": 25.0,
+    "lon": 0.0
+  },
+  {
+    "id": "c3",
+    "title": "Restaurant 3",
+    "image": {
+      "src": "images/rest3.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": 27.9881,
+    "lon": 86.925
+  },
+  {
+    "id": "c4",
+    "title": "Restaurant 4",
+    "image": {
+      "src": "images/rest4.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": 18.2208,
+    "lon": -66.5901
+  },
+  {
+    "id": "c5",
+    "title": "Restaurant 5",
+    "image": {
+      "src": "images/rest5.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": 37.9715,
+    "lon": 23.7257
+  },
+  {
+    "id": "c6",
+    "title": "Restaurant 6",
+    "image": {
+      "src": "images/rest6.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": -3.4653,
+    "lon": -62.2159
+  },
+  {
+    "id": "c7",
+    "title": "Restaurant 7",
+    "image": {
+      "src": "images/rest7.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": 64.9631,
+    "lon": -19.0208
+  },
+  {
+    "id": "c8",
+    "title": "Restaurant 8",
+    "image": {
+      "src": "images/rest8.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": 34.9949,
+    "lon": 135.785
+  },
+  {
+    "id": "c9",
+    "title": "Restaurant 9",
+    "image": {
+      "src": "images/rest9.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": -18.2871,
+    "lon": 147.6992
+  },
+  {
+    "id": "c10",
+    "title": "Restaurant 10",
+    "image": {
+      "src": "images/rest10.jpg",
+      "alt": "Restaurant"
+    },
+    "lat": 48.8566,
+    "lon": 2.3522
+  }
+]
